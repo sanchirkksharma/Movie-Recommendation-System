@@ -1,0 +1,22 @@
+[0m[[0m[0mdebug[0m] [0m[0mCreated transactional ClassFileManager with tempDir = C:\Movie_Recommendation_System\target\scala-2.12\classes.bak[0m
+[0m[[0m[0mdebug[0m] [0m[0mAbout to delete class files:[0m
+[0m[[0m[0mdebug[0m] [0m[0mWe backup class files:[0m
+[0m[[0m[0mdebug[0m] [0m[0mCreated transactional ClassFileManager with tempDir = C:\Movie_Recommendation_System\target\scala-2.12\classes.bak[0m
+[0m[[0m[0mdebug[0m] [0m[0mAbout to delete class files:[0m
+[0m[[0m[0mdebug[0m] [0m[0mWe backup class files:[0m
+[0m[[0m[0mdebug[0m] [0m[0mRegistering generated classes:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	MovieSimilarities1MDataset$Movies$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	MovieSimilarities1MDataset$MoviePairsSimilarity$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	MovieSimilarities1MDataset$MoviePairsSimilarity.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	MovieSimilarities1MDataset$MoviePairs.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	MovieSimilarities1MDataset$$typecreator6$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	MovieSimilarities1MDataset$Movies.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	MovieSimilarities1MDataset$$typecreator5$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	MovieSimilarities1MDataset$$typecreator5$2.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	MovieSimilarities1MDataset$MoviePairs$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	MovieSimilarities1MDataset$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	MovieSimilarities1MDataset.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	MovieSimilarities1MDataset$MoviesNames.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	MovieSimilarities1MDataset$$typecreator11$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	MovieSimilarities1MDataset$MoviesNames$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0mRemoving the temporary directory used for backing up class files: C:\Movie_Recommendation_System\target\scala-2.12\classes.bak[0m
