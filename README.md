@@ -1,8 +1,5 @@
-xxxxxx------------------------xxxxxx--------------------xxxxxx--------------------xxxxxx-------------xxxxxx
-                                                                                                                                                   ** Movie Recommendation Engine using Apache Spark on AWS EMR **
+### Movie Recommendation Engine using Apache Spark on AWS EMR
                                                                                                          
-xxxxxx------------------------xxxxxx--------------------xxxxxx--------------------xxxxxx-------------xxxxxx
-
 ## Project Overview
 This project implements a movie-to-movie recommendation system using Apache Spark (Scala), AWS EMR, and the MovieLens 1M dataset.
 The system computes cosine similarity between movie pairs based on user ratings to identify and recommend similar movies, all at scale on a distributed cluster.
