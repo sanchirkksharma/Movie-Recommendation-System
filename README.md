@@ -1,5 +1,5 @@
 xxxxxx------------------------xxxxxx--------------------xxxxxx--------------------xxxxxx-------------xxxxxx
-                                                                                                                                      ### Movie Recommendation Engine using Apache Spark on AWS EMR
+                                                                                                                                                   ** Movie Recommendation Engine using Apache Spark on AWS EMR **
                                                                                                          
 xxxxxx------------------------xxxxxx--------------------xxxxxx--------------------xxxxxx-------------xxxxxx
 
